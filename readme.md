@@ -18,7 +18,7 @@ pip install scapy
 
 ### Executando o Projeto
 
-Para iniciar o simulador, execute:
+Para iniciar o programa, execute:
 
 ```
 sudo python3 main.py
